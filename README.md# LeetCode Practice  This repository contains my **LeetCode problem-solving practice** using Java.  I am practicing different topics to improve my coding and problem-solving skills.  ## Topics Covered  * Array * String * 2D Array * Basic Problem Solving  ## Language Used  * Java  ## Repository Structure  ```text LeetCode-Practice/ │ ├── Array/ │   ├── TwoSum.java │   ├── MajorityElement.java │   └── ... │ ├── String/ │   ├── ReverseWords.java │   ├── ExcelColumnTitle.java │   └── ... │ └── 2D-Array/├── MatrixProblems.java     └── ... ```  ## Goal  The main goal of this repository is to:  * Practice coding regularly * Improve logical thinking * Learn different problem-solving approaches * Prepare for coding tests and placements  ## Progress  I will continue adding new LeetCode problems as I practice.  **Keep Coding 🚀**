@@ -1,0 +1,51 @@
+# LeetCode Practice
+
+This repository contains my **LeetCode problem-solving practice** using Java.
+
+I am practicing different topics to improve my coding and problem-solving skills.
+
+## Topics Covered
+
+* Array
+* String
+* 2D Array
+* Basic Problem Solving
+
+## Language Used
+
+* Java
+
+## Repository Structure
+
+```text
+LeetCode-Practice/
+│
+├── Array/
+│   ├── TwoSum.java
+│   ├── MajorityElement.java
+│   └── ...
+│
+├── String/
+│   ├── ReverseWords.java
+│   ├── ExcelColumnTitle.java
+│   └── ...
+│
+└── 2D-Array/
+    ├── MatrixProblems.java
+    └── ...
+```
+
+## Goal
+
+The main goal of this repository is to:
+
+* Practice coding regularly
+* Improve logical thinking
+* Learn different problem-solving approaches
+* Prepare for coding tests and placements
+
+## Progress
+
+I will continue adding new LeetCode problems as I practice.
+
+**Keep Coding 🚀**
